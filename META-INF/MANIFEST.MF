@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
-Automatic-Module-Name: proyectoBase
+Automatic-Module-Name: carreraDeAutos
 Bundle-ManifestVersion: 2
-Bundle-Name: proyectoBase
+Bundle-Name: carreraDeAutos
 Bundle-Vendor: My Company
 Bundle-Version: 1.0.0.qualifier
-Bundle-SymbolicName: juego;singleton:=true
+Bundle-SymbolicName: carreraDeAutos; singleton:=true
 Bundle-ActivationPolicy: lazy
 Require-Bundle: com.ibm.icu,
  org.eclipse.xtext,
@@ -18,4 +18,4 @@ Require-Bundle: com.ibm.icu,
  org.eclipse.xtext.ui
 Import-Package: org.apache.log4j,
  org.apache.commons.logging
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
