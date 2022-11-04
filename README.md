@@ -1,22 +1,19 @@
-# Nombre del juego (<- borrar y completar)
+# Akina SpeedStars
 
 ## Equipo de desarrollo
 
-- Alguien
-- Persona
-- etc.
-
-## Capturas
-
-(agregar)
+- Germán Belucci
+- Facundo Bulla
+- Joaquin Carrizo
+- Gianluca Santucho
 
 ## Reglas de Juego / Instrucciones
 
-(Escribirlas)
-
+Elegir el auto con las flechas
+Confirmar la eleccion con espacio
+Esquivar los obstaculos con las flechas
 
 ## Otros
 
-- Curso/Facultad
-- Versión de wollok
-- Una vez terminado, no tenemos problemas en que el repositorio sea público / queremos manternerlo privado
+- Curso: K2005 Facultad: FRBA
+- Una vez terminado, queremos manternerlo privado
