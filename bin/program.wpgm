@@ -1,7 +1,0 @@
-import wollok.game.*
-import carreaDeAutos.*
-
-program juego {
-
-	juego.configurar()
-}     
