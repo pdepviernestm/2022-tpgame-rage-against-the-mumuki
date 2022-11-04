@@ -1,4 +1,4 @@
-#Akina SpeedStars
+# Akina SpeedStars
 
 ## Equipo de desarrollo
 
